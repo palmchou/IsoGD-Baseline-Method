@@ -1,4 +1,4 @@
-ConGD baseline
+IsoGD baseline
 ---
 This is the source code of the baseline method of [IsoGD](http://www.cbsr.ia.ac.cn/users/jwan/database/isogd.html),
 a large-scale isolated gesture dataset.
@@ -33,7 +33,7 @@ If you use this code in your research, please cite the following two papers:
 **MFSK feature:**  
 Jun Wan, Guogong Guo, Stan Z. Li, "Explore Efficient Local Features form RGB-D Data for One-shot Learning Gesture Recognition", in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 8, pp. 1626-1639, 2016.
 
-**ConGD result:**  
+**IsoGD result:**
 Jun Wan, Yibing Zhao, Shuai Zhou, Isabelle Guyon, Sergio Escalera and Stan Z. Li, "ChaLearn Looking at People RGB-D Isolated and Continuous Datasets for Gesture Recognition", CVPR workshop, 2016.
 
 Should you have any question, please contact:  
@@ -48,5 +48,5 @@ The kmeans algorithm we used is implemented by VLFeat toolbox.
 > Copyright (C) 2012-13, The VLFeat Team
 > All rights reserved.
 
-### ConGD Baseline
+### IsoGD Baseline
 Distributed under the Apache License V2.0, please check `LICENSE` for further information.
